@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    font-family: 'inter';
+}
+
+#logo{
+    margin: 50px 0px 0px 75px;
+}
+
+#titulo-menusuperior{
+    margin-left: 150px;
+    margin-top: 75px;
+}
+
+#texto-menusuperior{
+    margin-left: 150px;
+    margin-top: 35px;
+    padding-bottom: 100px;
+}
+
+#menusuperior{
+    background-image: url(./imagens/fundo-menusuperior.svg);
+    color: aliceblue;
+}
+
+#menuinformacional{
+    background-color: #EAECE5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.icone{
+    margin: 50px 0px 50px 100px;
+    padding: 25px;
+}
+
+#secaovideo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.textoinformativo{
+    display: flex;
+    align-items: center;
+}
+
+#titulovideo{
+    color: #247BA0;
+    margin-top: 50px;
+}
+
+#video{
+    margin: 50px 25px 50px 100px;
+}
+
+#carrocel{
+    background-color: #247BA0;
+    padding: 50px;
+}
+
+#titulo-carrocel{
+    color: #EAECE5;
+    font-size: 25px;
+    text-align: center;
+}
+
+#div-cards{
+    margin-top: 25px;
+    display: grid;
+    grid-auto-flow: column;
+    margin-left: 150px;
+}
+
+.card{
+    width: 602px;
+    margin-left: 50px;
+}
+
+#setaesquerda{
+    display: none;
+    
+}
+
+#setadireita {
+    width: 150px;
+    margin-top: 10%;
+}
+
+#bruna{
+    display: none;
+}
+
+.seta {
+  width: 50px;
+  cursor: pointer;
+}
+
+.seta:hover {
+  transform: translateY(-7px);
+  transition-duration: 0.5s;
+}
+
+#formulario{
+    text-align: center;
+}
+
+#titulo-formulario{
+    font-size: 25px;
+    margin: 25px;
+    color: #383838;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    background-color: #EAECE5;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    background-color: #247ba0;
+    height: 40px;
+    width: 250px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: #4ba9d1;
+    color: white;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #063df3e5;
+}
+    
