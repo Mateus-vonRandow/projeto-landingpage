@@ -26,4 +26,4 @@ If you'd like to get in touch, send me a message on GitHub: [Mateus-vonRandow](h
 
 ---
 
-*Made with ❤️ by Mateus von Randow Miranda*
+*Made with ❤️ by Mateus*
